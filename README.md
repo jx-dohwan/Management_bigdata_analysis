@@ -1,12 +1,9 @@
 ## 래피드마이너를 활용한 경영빅데이터분석의 기초 개념 및 활용(초급 과정)
 
-
-
-
-<table>
+<table style="text-align: center;">
   <tr>
-    <td>차수</td>
-    <td>교육 내용</td>
+    <th>차수</th>
+    <th>교육 내용</th>
   </tr>
   <tr>
     <td rowspan='3'>1차시</td>
